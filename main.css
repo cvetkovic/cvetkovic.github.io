@@ -1,0 +1,20 @@
+a {
+	text-decoration: none;
+}
+
+.ime {
+	float: left;
+}
+
+.ime img {
+	width: 200px;
+}
+
+.osnovni_podaci {
+	float: left;
+	padding-left: 15px;
+}
+
+.sajt {
+	clear: both;
+}
