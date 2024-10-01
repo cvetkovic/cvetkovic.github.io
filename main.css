@@ -2,6 +2,23 @@ a {
 	text-decoration: none;
 }
 
+html {
+	margin: 0px;
+}
+
+body {
+	background-color: #eeeeee;
+	margin: 0px;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+ul {
+	list-style-type: none;
+}
+
 .ime {
 	float: left;
 }
@@ -12,9 +29,18 @@ a {
 
 .osnovni_podaci {
 	float: left;
-	padding-left: 15px;
+	padding-left: 40px;
 }
 
 .sajt {
 	clear: both;
+}
+
+.sadrzaj {
+	background: white;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	margin: 0px auto;
+	padding: 30px;
+	width: 900px;
 }
