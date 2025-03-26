@@ -1,0 +1,19 @@
+{
+	"name": "Lazar Cvetković",
+	"position": "PhD Candidate",
+	"work_line_1": "",
+	"work_line_2": "",
+	"email": "",
+	
+	"biography": "Biography",
+	"biography_content": "I am a PhD Candidate at the Systems Group at ETH Zurich. My research focuses on infrastructure for serverless computing, cluster management, optimizing resource usage. I am advised by Prof. Dr. Ana Klimovic. I received my MSc and BSc from the University of Belgrade, School of Electrical Engineering.",
+	
+	"news": "News",
+	
+	"publications": "Publications",
+	"paper": "Paper",
+	"paper_preprint": "Paper (preprint)"
+	"code": "Code",
+	
+	"teaching": "Teaching"
+}

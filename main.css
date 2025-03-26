@@ -41,6 +41,10 @@ ul {
 	padding-left: 40px;
 }
 
+.jezik {
+	float: right;
+}
+
 .ime {
 	margin-top: 0px;
 }
