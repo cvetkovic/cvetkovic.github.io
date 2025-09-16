@@ -16,6 +16,10 @@ body {
 	margin: 0px;
 }
 
+br {
+	padding-bottom: 2px;
+}
+
 li {
 	margin-bottom: 10px;
 }
